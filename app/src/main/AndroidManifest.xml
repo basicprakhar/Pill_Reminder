@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.innotion.vpillreminders"
+      android:versionCode="2"
+      android:versionName="2.0">
+      
+     <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="11"/>
+    
+     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+     <uses-permission android:name="android.permission.INTERNET"/>
+     <uses-permission android:name="android.permission.VIBRATE"/>
+     <uses-permission android:name="android.permission.FLASHLIGHT"/>
+     <uses-permission android:name="android.permission.SEND_SMS"/>
+     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+	
+     <application android:icon="@drawable/icon" android:label="@string/app_name">
+     -<meta-data android:name="com.mobclix.APPLICATION_ID"
+			android:value="6d726858-74de-47e9-9a50-752a97ff8f61"/>
+			-<activity
+				android:name="com.mobclix.android.sdk.MobclixBrowserActivity"
+				android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+              
+              
+        -<activity android:name=".VisualPillReminderActivity"
+       			  android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+                  android:label="@string/app_name" 
+                  android:screenOrientation="portrait" >
+           - <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        -<activity android:name=".MedicineActivity" android:screenOrientation="portrait"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+         -<activity android:name=".MedicineListActivity" android:screenOrientation="portrait" 
+         android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+         
+                  -<activity android:name=".MedicineFullScreen" android:screenOrientation="portrait" 
+         android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+         
+	     - <activity android:name=".Settings" android:screenOrientation="portrait" 
+		     android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+		     
+		 - <activity android:name=".Help" android:screenOrientation="portrait" />	
+		  - <activity android:name=".About" android:screenOrientation="portrait" />
+		      
+		<service android:enabled ="true" android:name="com.innotion.vpillreminders.AlarmService">
+       		<action android:name="com.innotion.pillreminder.AlarmService" />  
+        </service>
+        
+         - <activity android:name="com.innotion.vpillreminders.PatientAlarmScreen" android:label="@string/app_name" 
+				android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
+        
+        <receiver android:name="com.innotion.vpillreminders.AlarmServiceManager">
+			<intent-filter>
+			<action
+				android:name="android.intent.action.BOOT_COMPLETED" />
+			</intent-filter>
+		</receiver>
+
+    </application>
+</manifest>

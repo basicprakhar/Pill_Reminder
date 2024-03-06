@@ -1,0 +1,8 @@
+com.innotion.vpillreminders.app-pngs-0 C:\Users\nick2\Desktop\Pill_rem\app\build\generated\res\pngs\debug
+com.innotion.vpillreminders.app-resValues-1 C:\Users\nick2\Desktop\Pill_rem\app\build\generated\res\resValues\debug
+com.innotion.vpillreminders.app-rs-2 C:\Users\nick2\Desktop\Pill_rem\app\build\generated\res\rs\debug
+com.innotion.vpillreminders.app-mergeDebugResources-3 C:\Users\nick2\Desktop\Pill_rem\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.innotion.vpillreminders.app-mergeDebugResources-4 C:\Users\nick2\Desktop\Pill_rem\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.innotion.vpillreminders.app-merged_res-5 C:\Users\nick2\Desktop\Pill_rem\app\build\intermediates\merged_res\debug
+com.innotion.vpillreminders.app-debug-6 C:\Users\nick2\Desktop\Pill_rem\app\src\debug\res
+com.innotion.vpillreminders.app-main-7 C:\Users\nick2\Desktop\Pill_rem\app\src\main\res

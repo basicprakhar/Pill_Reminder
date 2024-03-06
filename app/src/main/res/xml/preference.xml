@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+
+    			<PreferenceCategory
+					android:title="@string/DataSettings"
+          		 >
+              
+                 <Preference
+                android:title="@string/DeleteAllPatientRecords"
+                android:key="DeleteAlarms" />
+        
+     
+      	
+           
+               </PreferenceCategory>
+               
+               <PreferenceCategory
+               android:title="@string/AlarmSettings"
+               
+                >
+               <RingtonePreference 
+      		     android:title="@string/ReminderRingtone"
+       			 android:key="ReminderRingtone" 
+          		 android:summary="@string/SelectRingtone" 
+           		 android:ringtoneType="all" />
+           		 
+                <CheckBoxPreference
+                        android:title="@string/Vibration"
+                        android:defaultValue="false"
+                        android:summary="@string/TurnOnthevibration"
+                        android:key="viberation" 
+                     />
+              
+                <CheckBoxPreference
+                        android:title="@string/Flashlight"
+                        android:defaultValue="true"
+                        android:summary="@string/TurnOntheflashlight"
+                        android:key="light" 
+                    />
+              
+                <CheckBoxPreference
+                        android:title="@string/NotificationSound"
+                        android:defaultValue="true"
+                        android:summary="@string/Turnoffthenotification"
+                        android:key="PlaySound" 
+                     />
+               </PreferenceCategory>
+               
+               <PreferenceCategory
+               android:title="@string/AutoAlarmSMSSettings"
+                >
+               	 <CheckBoxPreference
+                        android:title="@string/AutoSendSMS"
+                        android:defaultValue="false"
+                        android:summary="@string/SMSwillbesentautomatically"
+                        android:key="AutoSendSMS" 
+                  />
+                  
+                  <EditTextPreference 
+				       android:summary="@string/SettheMobilenumber"
+				       android:defaultValue="" 
+				       android:title="@string/EnterMobilenumber"
+				       android:inputType = "numberDecimal"
+				       android:key="smsNumber" />
+ 
+                </PreferenceCategory>
+    
+	</PreferenceScreen>

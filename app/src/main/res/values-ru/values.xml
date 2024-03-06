@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    	<string name="app_name">Таблетки напоминание  </string>
+	<string name="Pleasetakemedicineat">Пожалуйста, обратите медицины  </string>
+	<string name="Take">Принимать  </string>
+	<string name="Pills">Таблетки  </string>
+	<string name="SelectPicture">Выбрать Изображение  </string>
+	<string name="EnterMedicineName">Введите медицины Имя (по желанию)  </string>
+	<string name="Gallery">Галерея  </string>
+	<string name="Camera">Камера  </string>
+	<string name="Wesuggest1MP">Мы рекомендуем съемке в низком разрешении, например, 1 МП  </string>
+	<string name="MedicineTime">Время медицины  </string>
+	<string name="OK">ОК  </string>
+	<string name="Cancel">Отменить  </string>
+	<string name="Pleasetakemedicinepic">Пожалуйста, примите лекарство фотографии с камеры значок  </string>
+	<string name="PillsSpoons">* Таблетки / Ложки  </string>
+	<string name="PleaseSelectNoofPills">Выберите Количество таблеток  </string>
+	<string name="PleaseSelectmedicineintaketimings">Выберите принимая лекарств использовании таймингов значок Часы  </string>
+	<string name="PotencyOpt">Мощность (Opt)  </string>
+	<string name="InstructionsOpt">Инструкции (Opt)  </string>
+	<string name="PleaseSelectduration">Выберите при помощи значка календарного времени  </string>
+	<string name="PleaseSelectRecurrence">Выберите Повторение  </string>
+	<string name="MedcineAdded">Medcine Добавлено:  </string>
+	<string name="Medicinecouldnotbestored">Медицина не может быть сохранен  </string>
+	<string name="Instructions">Инструкции  </string>
+	<string name="Potency">Власть  </string>
+	<string name="Recurrence">Рецидив  </string>
+	<string name="CourseDuration">Продолжительность курса  </string>
+	<string name="NoOfPills">Не таблетки  </string>
+	<string name="days">день  </string>
+	<string name="PatientName">PatientName  </string>
+	<string name="sMedicines">\'S лекарства  </string>
+	<string name="Medicines">Медикаменты  </string>
+	<string name="For">для  </string>
+	<string name="Doyouwanttodeletethisalarm">Вы хотите удалить это предупреждение?  </string>
+	<string name="Everyday">Ежедневно  </string>
+	<string name="Alternatedays">Через день  </string>
+	<string name="RemoveMedicine">Удалить медицины  </string>
+	<string name="Timings">Времена  </string>
+	<string name="Enddate">Дата окончания  </string>
+	<string name="Takeyourmedicine">Возьмите медицине  </string>
+	<string name="Pleaseconfirmmedicinelist">Пожалуйста, подтвердите, если вы не хотите, чтобы увидеть список медицине сейчас?  </string>
+	<string name="Yes">Да  </string>
+	<string name="No">Нет  </string>
+	<string name="Pleasetaponscreenlistofmedicines">Пожалуйста, нажмите на экран, чтобы получить список лекарств  </string>
+	<string name="Removeallstoredalarms">Хотите, чтобы удалить все сохраненные тревоги?  </string>
+	<string name="RemoveallPatients">Удалите все пациенты  </string>
+	<string name="AllthePatientsdatawillberemoved">Все данные пациента будут удалены  </string>
+	<string name="DeleteAllPatientRecords">Удалить все записи пациента  </string>
+	<string name="TreatmentforFeverAllergy">Лечение например, лихорадка, аллергии  </string>
+	<string name="Removethispatient">Хотите, чтобы удалить этого пациента?  </string>
+	<string name="RemovePatient">Удалите пострадавшего  </string>
+	<string name="StoredReminders">Напоминание хранится  </string>
+	<string name="PillReminder">Таблетки напоминание  </string>
+	<string name="PatientPicTaken">Пациент фотографий, сделанных  </string>
+	<string name="PleasefirsttakePatientPic">Первый пациент с Pic  </string>
+	<string name="Feedback">Обратная связь  </string>
+	<string name="Help">Помощь  </string>
+	<string name="Settings">Настройки  </string>
+	<string name="AboutUs">О компании  </string>
+	<string name="Select">Выбирать  </string>
+	<string name="EnterMedicineNameOptional">Введите медицины Имя (по желанию)  </string>
+	<string name="MedicineList">Список медицины  </string>
+	<string name="TreatmentName">TreatmentName  </string>
+	<string name="ShowMedicineToBeTakeNow">ShowMedicineToBeTakeNow  </string>
+	<string name="PatientNameOptional">Пациента Имя (по желанию)  </string>
+	<string name="TakeMedicinePic">Pic принимать лекарства  </string>
+    <string name="SetPillsSchedule">Сентябрь таблетки календарь  </string>
+    <string name="AddMedicine">Добавить медицины  </string>
+    <string name="AddMoreMedicine">Добавить еще медицины  </string>
+    <string name="AddPatientMedicines">Добавить пациенту лекарства  </string>
+    <string name="PatientPic">Пациент Pic  </string>
+    <string name="Finish">Отделка  </string>
+    <string name="Ringtone">Ringtone  </string>
+    <string name="AddPatient">Добавить пациентов  </string>
+    <string name="AllAlarmscreatedbyyouwillbelistedhere">Все тревоги, которые вы создаете, будут перечислены здесь  </string>
+    <string name="AlarmSettings">Сигнализация настройки  </string>
+    <string name="DataSettings">Данные настройки  </string>
+    <string name="ReminderRingtone">Напоминание Ringtone  </string>
+    <string name="SelectRingtone">Выберите кольцо  </string>
+    <string name="Vibration">Вибрация  </string>
+    <string name="TurnOnthevibration">Включите вибрации сигнализации  </string>
+    <string name="Flashlight">Фонарик  </string>
+    <string name="TurnOntheflashlight">Включите фонарик сигнализации  </string>
+    <string name="NotificationSound">Звуковое оповещение  </string>
+    <string name="Turnoffthenotification">Выключите оповещение о тревоге звука  </string>
+    <string name="AutoAlarmSMSSettings">Авто установки SMS сигнализации  </string>
+    <string name="AutoSendSMS">Авто Отправка SMS  </string>
+    <string name="SMSwillbesentautomatically">SMS будут отправлены автоматически при тревоге. Это может быть использовано, когда человек находится вдали от дома или в городе, и хочет, чтобы помнить его / ее относительной принимать лекарства  </string>
+    <string name="SettheMobilenumber">Установить номер телефона с напоминаниями текстовых сообщений Медицина \'сек будет отправлено  </string>
+    <string name="EnterMobilenumber">Введите номер мобильного телефона </string>
+    <string name="eula_title">отказ</string>
+	<string name="eula_accept">принимать</string>
+	<string name="eula_refuse">отказываться</string>
+    
+    
+     <string-array name="MedicinePotency">  
+    <item>Мощность (Opt)  </item>
+    <item>0,25 (мг)  </item>
+    <item>0,5 (мг)  </item>
+    <item>1 (мг)  </item>
+    <item>2 (мг)  </item>
+    <item>4 (мг)  </item>
+    <item>5 (мг)  </item>
+    <item>8 (мг)  </item>
+    <item>10 (мг)  </item>
+    <item>12,5 (мг)  </item>
+    <item>20 (мг)  </item>
+    <item>25 (мг)  </item>
+    <item>40 (мг)  </item>
+    <item>50 (мг)  </item>
+    <item>75 (мг)  </item>
+    <item>100 (мг)  </item>
+    <item>120 (мг)  </item>
+    <item>150 (мг)  </item>
+	<item>200 (мг)  </item>
+	<item>250 (мг)  </item>
+	<item>300 (мг)  </item>
+	<item>400 (мг)  </item>
+	<item>500 (мг)  </item>
+	<item>600 (мг)  </item>
+	<item>650 (мг)  </item>
+	<item>1000 (мг)  </item>
+	<item>1200 (мг)  </item>
+	<item>1500 (мг)  </item>
+	<item>10000 (Unit)  </item>
+	<item>15000 (Unit)  </item>
+	<item>20000 (Unit)  </item>
+	<item>25000 (Unit)  </item>
+	
+	 </string-array>
+     
+      <string-array name="NumberofPills">
+    <item>* Таблетки / Ложки  </item>
+    <item>1 / 2  </item>
+    <item>1  </item>
+    <item>2  </item>
+    <item>3  </item>
+    <item>4  </item>
+    <item>5  </item>
+    <item>6  </item>
+    <item>7  </item>
+    <item>8  </item>
+    
+     </string-array>
+    
+    <string-array name="MedcineInstructions">
+    <item>Инструкции (Opt)  </item>
+    <item>Пустой желудок  </item>
+    <item>Перед пищи  </item>
+    <item>После пищи  </item>
+    <item>Избегайте употребления алкоголя  </item>
+    <item>С горячим молоком  </item>
+    
+     </string-array>
+   
+ <string-array name="Hours">
+        <item>06 AM </item>
+        <item>07 AM </item>
+        <item>08 AM </item>
+        <item>09 AM </item>
+        <item>10 AM </item>
+        <item>11 AM </item>
+        <item>00 PM </item>
+        <item>01 PM </item>
+        <item>02 PM </item>
+        <item>03 PM </item>
+        <item>04 PM </item>
+        <item>05 PM </item>
+        <item>06 PM </item>
+        <item>07 PM </item>
+        <item>08 PM </item>
+        <item>09 PM </item>
+        <item>10 PM </item>
+        <item>11 PM </item>
+		<item>00 AM </item>
+		<item>01 AM </item>
+		<item>02 AM </item>
+		<item>03 AM </item>
+		<item>04 AM </item>
+		<item>05 AM </item>   
+	
+		</string-array>
+   	
+      <string-array name="Minutes">
+    <item>Мин  </item>
+    <item>00  </item>
+    <item>15  </item>
+    <item>30  </item>
+    <item>45  </item>   
+    
+    	</string-array>
+   
+    <string-array name="CourseDuration"> 
+    <item>* Продолжительность курса  </item>
+    <item>1 день  </item>
+    <item>2 дня  </item>
+    <item>3-х дней  </item>
+    <item>5 дней  </item>
+    <item>1 неделя  </item>
+    <item>15 дней  </item>
+    <item>1 месяц  </item>
+    <item>2 месяца  </item>
+    <item>3 месяца  </item>
+    <item>4 месяца  </item>
+    <item>6 месяцев  </item>
+    <item>1 год  </item>
+    <item>Длительный срок службы</item>
+    
+     	</string-array>
+   	
+   	    <string-array name="Frequency">      
+    <item>* Повторение  </item>
+    <item>Весь день  </item>
+    <item>Через день  </item>
+    <item>Каждые 3 дня  </item>
+    <item>Каждое воскресенье  </item>
+    <item>Каждый Пн  </item>
+    <item>Каждый Вт  </item>
+    <item>Каждый Ср  </item>
+    <item>Каждый чт  </item>
+    <item>Каждый пт  </item>
+    <item>Каждую субботу </item>
+      	</string-array>
+      	
+</resources>

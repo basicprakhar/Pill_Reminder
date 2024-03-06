@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    	<string name="app_name">Pill Herinnering </string>
+	<string name="Pleasetakemedicineat">Neem geneeskunde aan </string>
+	<string name="Take">Nemen </string>
+	<string name="Pills">Pillen </string>
+	<string name="SelectPicture">Selecteer Beeld </string>
+	<string name="EnterMedicineName">Vul Medicine Naam (optioneel) </string>
+	<string name="Gallery">Galerij </string>
+	<string name="Camera">Camera </string>
+	<string name="Wesuggest1MP">Wij stellen voor om de foto\'s te nemen in lage resoluties bijvoorbeeld een MP </string>
+	<string name="MedicineTime">Geneeskunde Tijd </string>
+	<string name="OK">OK </string>
+	<string name="Cancel">Annuleren </string>
+	<string name="Pleasetakemedicinepic">Neem medicijnen foto met de camera icoon </string>
+	<string name="PillsSpoons">* Pillen / Lepels </string>
+	<string name="PleaseSelectNoofPills">Selecteer Geen van de pillen </string>
+	<string name="PleaseSelectmedicineintaketimings">Selecteer medicijn inname timings met behulp van Clock icoon </string>
+	<string name="PotencyOpt">Potentie (Opt) </string>
+	<string name="InstructionsOpt">Instructies (Opt) </string>
+	<string name="PleaseSelectduration">Selecteer duur waarbij pictogram Agenda </string>
+	<string name="PleaseSelectRecurrence">Selecteer Herhaling </string>
+	<string name="MedcineAdded">Medcine Toegevoegd: </string>
+	<string name="Medicinecouldnotbestored">Geneesmiddel kan niet worden opgeslagen </string>
+	<string name="Instructions">Instructies </string>
+	<string name="Potency">Sterkte </string>
+	<string name="Recurrence">Herhaling </string>
+	<string name="CourseDuration">Cursusduur </string>
+	<string name="NoOfPills">Geen van pillen </string>
+	<string name="days">dagen </string>
+	<string name="PatientName">PatientName </string>
+	<string name="sMedicines">\'S Geneesmiddelen </string>
+	<string name="Medicines">Geneesmiddelen </string>
+	<string name="For">voor </string>
+	<string name="Doyouwanttodeletethisalarm">Wilt u dit alarm wilt verwijderen? </string>
+	<string name="Everyday">Alledaags </string>
+	<string name="Alternatedays">Alternatieve dag </string>
+	<string name="RemoveMedicine">Verwijder Medicine </string>
+	<string name="Timings">Timings </string>
+	<string name="Enddate">Einddatum </string>
+	<string name="Takeyourmedicine">Neem uw geneesmiddel </string>
+	<string name="Pleaseconfirmmedicinelist">Gelieve te bevestigen als u niet wilt dat uw medicijnen lijst nu zien? </string>
+	<string name="Yes">Ja </string>
+	<string name="No">Geen </string>
+	<string name="Pleasetaponscreenlistofmedicines">Gelieve tikken op het scherm om de lijst van geneesmiddelen te krijgen </string>
+	<string name="Removeallstoredalarms">Wilt u alle opgeslagen alarmen verwijderen? </string>
+	<string name="RemoveallPatients">Verwijder alle patiënten </string>
+	<string name="AllthePatientsdatawillberemoved">Alle patiënten gegevens zullen worden verwijderd </string>
+	<string name="DeleteAllPatientRecords">Delete All Patient Records </string>
+	<string name="TreatmentforFeverAllergy">Behandeling voor bijv. Koorts, Anti </string>
+	<string name="Removethispatient">Wilt u deze patiënt verwijderen? </string>
+	<string name="RemovePatient">Patiënt </string>
+	<string name="StoredReminders">Opgeslagen Herinneringen </string>
+	<string name="PillReminder">Pill Herinnering </string>
+	<string name="PatientPicTaken">Patiënt Pic Gemaakt </string>
+	<string name="PleasefirsttakePatientPic">Gelieve eerst Patient Pic </string>
+	<string name="Feedback">Terugkoppeling </string>
+	<string name="Help">Help </string>
+	<string name="Settings">Instellingen </string>
+	<string name="AboutUs">Over ons </string>
+	<string name="Select">Kiezen </string>
+	<string name="EnterMedicineNameOptional">Vul Medicine Naam (optioneel) </string>
+	<string name="MedicineList">Geneeskunde Lijst </string>
+	<string name="TreatmentName">TreatmentName </string>
+	<string name="ShowMedicineToBeTakeNow">ShowMedicineToBeTakeNow </string>
+	<string name="PatientNameOptional">Patiënt Naam (optioneel) </string>
+	<string name="TakeMedicinePic">Neem Medicine Pic </string>
+    <string name="SetPillsSchedule">Set Pillen Schema </string>
+    <string name="AddMedicine">Voeg Medicine </string>
+    <string name="AddMoreMedicine">Meer toevoegen Medicine </string>
+    <string name="AddPatientMedicines">Voeg Patiënt Geneesmiddelen </string>
+    <string name="PatientPic">Patiënt Pic </string>
+    <string name="Finish">Afwerking </string>
+    <string name="Ringtone">Ringtone </string>
+    <string name="AddPatient">Voeg patiënt </string>
+    <string name="AllAlarmscreatedbyyouwillbelistedhere">Alle alarmen die door u wordt hier weergegeven </string>
+    <string name="AlarmSettings">Alarm-instellingen </string>
+    <string name="DataSettings">Data-instellingen </string>
+    <string name="ReminderRingtone">Herinnering Ringtone </string>
+    <string name="SelectRingtone">Selecteer Ringtone </string>
+    <string name="Vibration">Trilling </string>
+    <string name="TurnOnthevibration">Zet op de trilling van het alarm </string>
+    <string name="Flashlight">Zaklamp </string>
+    <string name="TurnOntheflashlight">Zet op de zaklamp van het alarm </string>
+    <string name="NotificationSound">Kennisgeving Sound </string>
+    <string name="Turnoffthenotification">Zet de kennisgeving geluid van het alarm </string>
+    <string name="AutoAlarmSMSSettings">Auto Alarm SMS-instellingen </string>
+    <string name="AutoSendSMS">Auto SMS </string>
+    <string name="SMSwillbesentautomatically">SMS wordt automatisch verzonden tijdens het Alarm. Dit kan worden gebruikt wanneer de persoon is er niet van thuis of stad en wil zijn / haar familielid te herinneren voor het innemen van medicijnen </string>
+    <string name="SettheMobilenumber">Stel het Mobiel nummer waarop de geneeskunde herinnering sms \' s worden verzonden </string>
+    <string name="EnterMobilenumber">Voer een Mobiel nummer tring> </string>
+    <string name="eula_title">disclaimer</string>
+	<string name="eula_accept">accepteren</string>
+	<string name="eula_refuse">weigeren</string>
+    
+    
+     <string-array name="MedicinePotency">   
+    <item>Potentie (Opt) </item>
+    <item>0,25 (mg) </item>
+    <item>0,5 (mg) </item>
+    <item>1 (mg) </item>
+    <item>2 (mg) </item>
+    <item>4 (mg) </item>
+    <item>5 (mg) </item>
+    <item>8 (mg) </item>
+    <item>10 (mg) </item>
+    <item>12,5 (mg) </item>
+    <item>20 (mg) </item>
+    <item>25 (mg) </item>
+    <item>40 (mg) </item>
+    <item>50 (mg) </item>
+    <item>75 (mg) </item>
+    <item>100 (mg) </item>
+    <item>120 (mg) </item>
+    <item>150 (mg) </item>
+	<item>200 (mg) </item>
+	<item>250 (mg) </item>
+	<item>300 (mg) </item>
+	<item>400 (mg) </item>
+	<item>500 (mg) </item>
+	<item>600 (mg) </item>
+	<item>650 (mg) </item>
+	<item>1000 (mg) </item>
+	<item>1200 (mg) </item>
+	<item>1500 (mg) </item>
+	<item>10000 (Unit) </item>
+	<item>15000 (Unit) </item>
+	<item>20000 (Unit) </item>
+	<item>25000 (Unit) </item>
+	
+	</string-array>
+     
+      <string-array name="NumberofPills">
+    <item>* Pillen / Lepels </item>
+    <item>1 / 2 </item>
+    <item>1 </item>
+    <item>2 </item>
+    <item>3 </item>
+    <item>4 </item>
+    <item>5 </item>
+    <item>6 </item>
+    <item>7 </item>
+    <item>8 </item>
+    
+     </string-array>
+    
+    <string-array name="MedcineInstructions">
+    <item>Instructies (Opt) </item>
+    <item>Lege maag </item>
+    <item>Voor het eten </item>
+    <item>Na de maaltijd </item>
+    <item>Vermijd alcohol </item>
+    <item>Met warme melk </item>
+    
+     </string-array>
+   
+
+   <string-array name="Hours">
+        <item>06 AM </item>
+        <item>07 AM </item>
+        <item>08 AM </item>
+        <item>09 AM </item>
+        <item>10 AM </item>
+        <item>11 AM </item>
+        <item>00 PM </item>
+        <item>01 PM </item>
+        <item>02 PM </item>
+        <item>03 PM </item>
+        <item>04 PM </item>
+        <item>05 PM </item>
+        <item>06 PM </item>
+        <item>07 PM </item>
+        <item>08 PM </item>
+        <item>09 PM </item>
+        <item>10 PM </item>
+        <item>11 PM </item>
+		<item>00 AM </item>
+		<item>01 AM </item>
+		<item>02 AM </item>
+		<item>03 AM </item>
+		<item>04 AM </item>
+		<item>05 AM </item>   
+	
+		</string-array>
+		
+   	
+      <string-array name="Minutes">
+    <item>Mins </item>
+    <item>00 </item>
+    <item>15 </item>
+    <item>30 </item>
+    <item>45 </item>    
+    
+    	</string-array>
+   
+    <string-array name="CourseDuration">
+    <item>* Cursusduur </item>
+    <item>1 dag </item>
+    <item>2 dagen </item>
+    <item>3 dagen </item>
+    <item>5 dagen </item>
+    <item>1 week </item>
+    <item>15 dagen </item>
+    <item>1 maand </item>
+    <item>2 Maanden </item>
+    <item>3 Maanden </item>
+    <item>4 Maanden </item>
+    <item>6 maanden </item>
+    <item>1 jaar </item>
+    <item>Een leven lang em> </item> 
+    
+     	
+   	</string-array>
+   	
+   	    <string-array name="Frequency">
+          
+    <item>* Herhaling </item>
+    <item>Elke dag </item>
+    <item>Alternatieve Dagen </item>
+    <item>Elke 3e dag </item>
+    <item>Elke zo </item>
+    <item>Elke maand. </item>
+    <item>Iedere dins </item>
+    <item>Elke wo </item>
+    <item>Elke donder </item>
+    <item>Elk vrij </item>
+    <item>Elke zat </item>
+    </string-array>
+    
+</resources>

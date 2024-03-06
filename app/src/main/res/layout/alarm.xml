@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+    
+		<RelativeLayout
+			android:id="@+id/AlarmScreen"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			xmlns:android="http://schemas.android.com/apk/res/android"
+		>
+		
+	    <ImageView 
+	    android:layout_width ="fill_parent" 
+	    android:id ="@+id/AlarmImageViewer" 
+	    android:layout_height="fill_parent"
+	    >
+	    
+	    </ImageView>
+	    
+	    <DigitalClock 
+	     android:layout_width="wrap_content"
+	     android:id="@+id/digitalClock1" 
+	     android:layout_above="@+id/imageViewer" 
+	     android:text="DigitalClock" 
+	     android:layout_height="wrap_content" 
+	     android:layout_alignRight="@+id/imageViewer"
+	     >
+	     </DigitalClock>
+	     
+	       
+           		<com.mobclix.android.sdk.MobclixMMABannerXLAdView
+    	  	android:id="@+id/banner_adview1"
+           	android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"/>
+      	
+		
+		 <TextView
+        android:layout_width="wrap_content" 
+        android:id="@+id/alarmText"
+        android:layout_height="wrap_content" 
+        android:layout_centerInParent="true"
+        android:padding="12dip"
+        android:background="#AA000000"
+        android:textColor="#ffffffff"
+        android:text="Alarm" 
+        android:textSize="30px"
+        />
+        
+           
+	       <com.mobclix.android.sdk.MobclixMMABannerXLAdView
+    	  	android:id="@+id/banner_adview1"
+           	android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"/>
+           
+		</RelativeLayout>
+			

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+     
+
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:orientation="vertical"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:id = "@+id/MedLayout"
+    	>
+	
+    <ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+   >  
+                
+    	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:orientation="vertical"
+    	android:id = "@+id/AddMedicineLayout"
+    	android:focusable="true"
+    	android:focusableInTouchMode="true"
+		android:background = "#FFFFFF"
+		android:layout_weight="1"
+    	>
+    	      
+           		<com.mobclix.android.sdk.MobclixMMABannerXLAdView
+    	  	android:id="@+id/banner_adview1"
+           	android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"/>
+      	
+		  <ImageView
+        android:layout_width="fill_parent" 
+        android:id="@+id/medicineImage"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+         />
+         
+           <ImageButton 
+        android:id="@+id/MedicinePic"  
+        android:layout_width="fill_parent" 
+        android:layout_height="fill_parent"
+        android:text="@string/TakeMedicinePic"
+        android:onClick="onMedicinePicClick"
+        android:focusable="true"
+        android:src = "@xml/cameraicon"
+        android:background="@null"
+        />
+        
+        <TextView 
+  		android:id="@+id/previous" 
+  		android:layout_height="fill_parent" 
+  		android:layout_width="wrap_content" 
+  		android:textSize="25px"
+  		android:text="@string/TakeMedicinePic"
+  		android:layout_gravity="center_vertical|center_horizontal|center"
+  		android:textColor="#000000"
+  		/> 
+          
+    <EditText 
+        android:id="@+id/MedicineNameEditText"  
+        android:layout_width="fill_parent" 
+        android:layout_height="fill_parent"
+        android:text="@string/EnterMedicineNameOptional"
+        android:gravity="top"
+        android:textColor="#808080"
+        />
+
+           
+  <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:orientation="horizontal"
+    	android:layout_weight="1" >
+    	
+     <ImageButton 
+     	android:id="@+id/NoofPills" 
+      	android:layout_width="wrap_content" 
+      	android:layout_height="wrap_content"
+       	android:src="@xml/pillicon"
+       	android:layout_weight="1"
+      	android:background="@null"
+      	android:onClick = "onNoOfPills"
+      	/>
+    
+      <ImageButton android:id="@+id/MedicineTime" 
+      	android:layout_width="wrap_content" 
+      	android:layout_height="wrap_content"
+      	android:onClick="OnMedicineDaySchedule"
+      	android:layout_weight="1"
+      	android:text="@string/SetPillsSchedule"
+       	android:src="@xml/clockicon"
+      	android:background="@null"   	/>
+      	
+      	  <ImageButton android:id="@+id/courseDuration" 
+      	android:layout_width="wrap_content" 
+      	android:layout_height="wrap_content"
+       	android:src="@xml/calendaricon"
+       	android:layout_weight="1"
+      	android:background="@null"
+      	android:onClick = "onCourseDuration"/>
+      	
+      	
+      </LinearLayout>
+      
+        
+      <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:orientation="horizontal"
+    	android:layout_weight="1" >
+    	
+    	      <ImageButton android:id="@+id/DaysFrequency" 
+      	android:layout_width="wrap_content" 
+      	android:layout_height="wrap_content"
+        android:src="@xml/recurrenceicon"
+        android:layout_weight="1"
+        android:onClick = "onReccurence"
+        android:background="@null"/>
+    	       
+     	    <ImageButton android:id="@+id/spinner1" 
+      		android:layout_width="wrap_content" 
+      		android:layout_height="wrap_content"
+      		android:src="@xml/instructionicon"
+      		android:layout_weight="1"
+      		android:background="@null"
+      		android:onClick = "onInstructionClick"/>
+       
+        
+      		<ImageButton android:id="@+id/spinner2" 
+      		android:layout_width="wrap_content" 
+      		android:layout_height="wrap_content"
+      	    android:src="@xml/potencyicon"
+      	    android:layout_weight="1"
+      		android:background="@null"
+      		android:onClick = "onPotencyClick"/>
+      		
+      	</LinearLayout>
+      	
+      	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:orientation="horizontal"
+    	android:layout_weight="1" >
+      
+	  
+          <Button 
+        android:id="@+id/AddMedicine"  
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content"
+        android:text="@string/AddMedicine"
+        android:onClick="onAddMedicineClick"
+        android:drawableTop="@drawable/addmedicine1"
+        android:layout_weight="1"
+        android:background="@null"    />
+
+        <Button 
+        android:id="@+id/DoneButton"  
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content"
+        android:text="@string/Finish"
+        android:layout_weight="1"
+        android:onClick="onFinish"
+        android:drawableTop="@drawable/finish1"
+        android:background="@null"   />
+        		
+	</LinearLayout>
+		
+        
+	</LinearLayout>  
+	</ScrollView>
+</LinearLayout>
+
+

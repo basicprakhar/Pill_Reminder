@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    	<string name="app_name">ピルリマインダー  </string>
+	<string name="Pleasetakemedicineat">で薬を服用してください  </string>
+	<string name="Take">ください  </string>
+	<string name="Pills">丸  </string>
+	<string name="SelectPicture">画像を選択  </string>
+	<string name="EnterMedicineName">医学の名前を入力します（オプション）  </string>
+	<string name="Gallery">ギャラリー  </string>
+	<string name="Camera">カメラ  </string>
+	<string name="Wesuggest1MP">私達は1 MP、例えば、低解像度で撮影することをお勧め  </string>
+	<string name="MedicineTime">医学の時間  </string>
+	<string name="OK">[OK]  </string>
+	<string name="Cancel">キャンセル  </string>
+	<string name="Pleasetakemedicinepic">カメラのアイコンを持つ薬の写真をきれいにしてください  </string>
+	<string name="PillsSpoons">*サプリメント/スプーン  </string>
+	<string name="PleaseSelectNoofPills">錠剤の数を選択します。  </string>
+	<string name="PleaseSelectmedicineintaketimings">タイミングクロックのアイコンを使用して、薬の服用を選択します。  </string>
+	<string name="PotencyOpt">電源（オプション）  </string>
+	<string name="InstructionsOpt">指示（オプト）  </string>
+	<string name="PleaseSelectduration">カレンダー時間のアイコンを使用して選択します。  </string>
+	<string name="PleaseSelectRecurrence">再発を選択します。  </string>
+	<string name="MedcineAdded">Medcineに追加：  </string>
+	<string name="Medicinecouldnotbestored">薬を格納することはできません  </string>
+	<string name="Instructions">指示  </string>
+	<string name="Potency">電源を  </string>
+	<string name="Recurrence">再発  </string>
+	<string name="CourseDuration">コー​​スの期間  </string>
+	<string name="NoOfPills">ない錠剤  </string>
+	<string name="days">一日  </string>
+	<string name="PatientName">PatientName  </string>
+	<string name="sMedicines">\'\ S医薬品  </string>
+	<string name="Medicines">医薬品  </string>
+	<string name="For">の  </string>
+	<string name="Doyouwanttodeletethisalarm">このアラートを削除しますか？  </string>
+	<string name="Everyday">毎日  </string>
+	<string name="Alternatedays">代替日  </string>
+	<string name="RemoveMedicine">医学を削除します。  </string>
+	<string name="Timings">回  </string>
+	<string name="Enddate">エンド日  </string>
+	<string name="Takeyourmedicine">あなたの薬を取る  </string>
+	<string name="Pleaseconfirmmedicinelist">あなたが今の薬のリストを表示したくない場合は確認してください？  </string>
+	<string name="Yes">はい  </string>
+	<string name="No">なし  </string>
+	<string name="Pleasetaponscreenlistofmedicines">薬のリストを取得するには画面をタップしてください  </string>
+	<string name="Removeallstoredalarms">保存されているすべてのアラームを削除したいですか？  </string>
+	<string name="RemoveallPatients">すべての患者を削除します。  </string>
+	<string name="AllthePatientsdatawillberemoved">すべての患者のデータが削除されます  </string>
+	<string name="DeleteAllPatientRecords">患者のすべてのレコードを削除します。  </string>
+	<string name="TreatmentforFeverAllergy">治療例のための発熱、アレルギー  </string>
+	<string name="Removethispatient">この患者を削除したいですか？  </string>
+	<string name="RemovePatient">患者を削除します。  </string>
+	<string name="StoredReminders">保存されているリマインダー  </string>
+	<string name="PillReminder">ピルリマインダー  </string>
+	<string name="PatientPicTaken">患者の写真は撮影  </string>
+	<string name="PleasefirsttakePatientPic">服用最初のピックの患者  </string>
+	<string name="Feedback">フィードバック  </string>
+	<string name="Help">ヘルプ  </string>
+	<string name="Settings">設定  </string>
+	<string name="AboutUs">会社概要  </string>
+	<string name="Select">選択してください  </string>
+	<string name="EnterMedicineNameOptional">医学の名前を入力します（オプション）  </string>
+	<string name="MedicineList">薬のリスト  </string>
+	<string name="TreatmentName">TreatmentName  </string>
+	<string name="ShowMedicineToBeTakeNow">ShowMedicineToBeTakeNow  </string>
+	<string name="PatientNameOptional">患者の名前（オプション）  </string>
+	<string name="TakeMedicinePic">PICは、服用すること  </string>
+    <string name="SetPillsSchedule">九月錠剤のカレンダー  </string>
+    <string name="AddMedicine">医学を追加  </string>
+    <string name="AddMoreMedicine">もっと医学を追加  </string>
+    <string name="AddPatientMedicines">患者の薬を追加します。  </string>
+    <string name="PatientPic">患者ピック  </string>
+    <string name="Finish">仕上げ  </string>
+    <string name="Ringtone">着メロ  </string>
+    <string name="AddPatient">患者を追加  </string>
+    <string name="AllAlarmscreatedbyyouwillbelistedhere">ユーザが作成したすべてのアラームがここに表示されます。  </string>
+    <string name="AlarmSettings">アラームの設定  </string>
+    <string name="DataSettings">データの設定  </string>
+    <string name="ReminderRingtone">リマインダー着メロ  </string>
+    <string name="SelectRingtone">リングを選択します。  </string>
+    <string name="Vibration">振動  </string>
+    <string name="TurnOnthevibration">振動アラームをオンにする  </string>
+    <string name="Flashlight">懐中電灯  </string>
+    <string name="TurnOntheflashlight">懐中電灯のアラームをオンにする  </string>
+    <string name="NotificationSound">サウンド通知  </string>
+    <string name="Turnoffthenotification">通知音のアラームをオフにする  </string>
+    <string name="AutoAlarmSMSSettings">自動SMSのアラーム設定  </string>
+    <string name="AutoSendSMS">自動SMSの送信  </string>
+    <string name="SMSwillbesentautomatically">ときにアラームSMSは自動的に送信されます。人が家から離れたり、町のであり、薬を​​服用する彼/彼女の相対を覚えておく必要があるときにこれを使用することができます。  </string>
+    <string name="SettheMobilenumber">医学\'\ sは送信されるテキストメッセージの通知で電話の番号を設定します。  </string>
+    <string name="EnterMobilenumber">携帯電話番号を入力してください </string>
+    <string name="eula_title">免責事項</string>
+	<string name="eula_accept">受け入れる</string>
+	<string name="eula_refuse">拒絶する</string>
+    
+  
+    <string-array name="MedicinePotency">
+    <item>電源（オプション）  </item>
+    <item>0.25（mg）を  </item>
+    <item>0.5（mg）を  </item>
+    <item>1（MG）  </item>
+    <item>2（MG）  </item>
+    <item>4（MG）  </item>
+    <item>5（MG）  </item>
+    <item>8（mg）を  </item>
+    <item>10（MG）  </item>
+    <item>12.5（mg）を  </item>
+    <item>20（MG）  </item>
+    <item>25（MG）  </item>
+    <item>40（MG）  </item>
+    <item>50（MG）  </item>
+    <item>75（MG）  </item>
+    <item>100（MG）  </item>
+    <item>120（MG）  </item>
+    <item>150（MG）  </item>
+	<item>200（MG）  </item>
+	<item>250（MG）  </item>
+	<item>300（MG）  </item>
+	<item>400（MG）  </item>
+	<item>500（MG）  </item>
+	<item>600（MG）  </item>
+	<item>650（MG）  </item>
+	<item>1000（MG）  </item>
+	<item>1200（MG）  </item>
+	<item>1500（MG）  </item>
+	<item>10000（単位）  </item>
+	<item>15000（単位）  </item>
+	<item>20000（単位）  </item>
+	<item>25000（単位）  </item>
+	
+	 </string-array>
+     
+      <string-array name="NumberofPills">
+    <item>*サプリメント/スプーン  </item>
+    <item>1月2日  </item>
+    <item>1  </item>
+    <item>2  </item>
+    <item>3  </item>
+    <item>4  </item>
+    <item>5  </item>
+    <item>6  </item>
+    <item>7  </item>
+    <item>8  </item>
+    
+     </string-array>
+    
+    <string-array name="MedcineInstructions">
+    <item>指示（オプト）  </item>
+    <item>空の胃  </item>
+    <item>食品の前に  </item>
+    <item>食品の後  </item>
+    <item>アルコールを避ける  </item>
+    <item>ホットミルクと  </item>
+    
+    </string-array>
+   
+
+      <string-array name="Hours">
+        <item>06 AM </item>
+        <item>07 AM </item>
+        <item>08 AM </item>
+        <item>09 AM </item>
+        <item>10 AM </item>
+        <item>11 AM </item>
+        <item>00 PM </item>
+        <item>01 PM </item>
+        <item>02 PM </item>
+        <item>03 PM </item>
+        <item>04 PM </item>
+        <item>05 PM </item>
+        <item>06 PM </item>
+        <item>07 PM </item>
+        <item>08 PM </item>
+        <item>09 PM </item>
+        <item>10 PM </item>
+        <item>11 PM </item>
+		<item>00 AM </item>
+		<item>01 AM </item>
+		<item>02 AM </item>
+		<item>03 AM </item>
+		<item>04 AM </item>
+		<item>05 AM </item>
+	
+	</string-array>
+   	
+      <string-array name="Minutes">      
+    <item>分  </item>
+    <item>00  </item>
+    <item>15  </item>
+    <item>30  </item>
+    <item>45  </item>   
+    
+    	</string-array>
+   
+    <string-array name="CourseDuration">  
+    <item>もちろん*期間  </item>
+    <item>1日  </item>
+    <item>2日間  </item>
+    <item>3日間  </item>
+    <item>5日間  </item>
+    <item>1週間  </item>
+    <item>15日間  </item>
+    <item>1ヶ月  </item>
+    <item>2ヶ月  </item>
+    <item>3ヶ月間  </item>
+    <item>4ヶ月  </item>
+    <item>6か月  </item>
+    <item>1年  </item>
+    <item>ロングライフ  </item>  
+    
+      	</string-array>
+   	
+   	    <string-array name="Frequency">    
+    <item>*再発  </item>
+    <item>すべての日  </item>
+    <item>代替日  </item>
+    <item>3日ごと  </item>
+    <item>毎日曜日  </item>
+    <item>毎週月  </item>
+    <item>すべての火  </item>
+    <item>毎週水  </item>
+    <item>毎木  </item>
+    <item>すべての金  </item>
+    <item>毎土曜日 </item>
+    </string-array>
+</resources>

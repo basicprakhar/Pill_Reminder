@@ -1,0 +1,162 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.innotion.vpillreminders"
+4    android:versionCode="2"
+5    android:versionName="2.0" >
+6
+7    <uses-sdk
+7-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:7:6-73
+8        android:minSdkVersion="7"
+8-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:7:16-41
+9        android:targetSdkVersion="11" />
+9-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:7:42-71
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:9:6-79
+11-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:9:23-77
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:10:6-67
+12-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:10:23-65
+13    <uses-permission android:name="android.permission.VIBRATE" />
+13-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:11:6-66
+13-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:11:23-64
+14    <uses-permission android:name="android.permission.FLASHLIGHT" />
+14-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:12:6-69
+14-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:12:23-67
+15    <uses-permission android:name="android.permission.SEND_SMS" />
+15-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:13:6-67
+15-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:13:23-65
+16    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+16-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:14:6-76
+16-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:14:23-73
+17
+18    <application
+18-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:17:6-63:19
+19        android:debuggable="true"
+20        android:icon="@drawable/icon"
+20-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:17:19-48
+21        android:label="@string/app_name" >
+21-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:17:49-81
+22     -
+23        <meta-data
+23-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:18:7-19:58
+24            android:name="com.mobclix.APPLICATION_ID"
+24-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:18:18-59
+25            android:value="6d726858-74de-47e9-9a50-752a97ff8f61" />
+25-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:19:4-56
+26			-
+27        <activity
+27-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:20:5-22:66
+28            android:name="com.mobclix.android.sdk.MobclixBrowserActivity"
+28-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:21:5-66
+29            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+29-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:22:5-64
+30        -
+31        <activity
+31-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:25:10-33:20
+32            android:name="com.innotion.vpillreminders.VisualPillReminderActivity"
+32-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:25:20-62
+33            android:label="@string/app_name"
+33-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:27:19-51
+34            android:screenOrientation="portrait"
+34-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:28:19-55
+35            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+35-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:26:13-71
+36           - 
+37            <intent-filter>
+37-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:29:14-32:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:30:17-69
+38-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:30:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:31:17-77
+40-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:31:27-74
+41            </intent-filter>
+42        </activity>
+43        -
+44        <activity
+44-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:35:10-36:70
+45            android:name="com.innotion.vpillreminders.MedicineActivity"
+45-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:35:20-52
+46            android:screenOrientation="portrait"
+46-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:35:53-89
+47            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+47-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:36:9-67
+48         -
+49        <activity
+49-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:37:11-38:70
+50            android:name="com.innotion.vpillreminders.MedicineListActivity"
+50-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:37:21-57
+51            android:screenOrientation="portrait"
+51-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:37:58-94
+52            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+52-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:38:10-68
+53                  -
+54        <activity
+54-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:40:20-41:70
+55            android:name="com.innotion.vpillreminders.MedicineFullScreen"
+55-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:40:30-64
+56            android:screenOrientation="portrait"
+56-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:40:65-101
+57            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+57-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:41:10-68
+58	     - 
+59        <activity
+59-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:43:9-44:68
+60            android:name="com.innotion.vpillreminders.Settings"
+60-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:43:19-43
+61            android:screenOrientation="portrait"
+61-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:43:44-80
+62            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+62-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:44:8-66
+63		 - 
+64        <activity
+64-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:46:6-76
+65            android:name="com.innotion.vpillreminders.Help"
+65-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:46:16-36
+66            android:screenOrientation="portrait" />
+66-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:46:37-73
+67		  - 
+68        <activity
+68-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:47:7-78
+69            android:name="com.innotion.vpillreminders.About"
+69-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:47:17-38
+70            android:screenOrientation="portrait" />
+70-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:47:39-75
+71
+72        <service
+72-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:49:3-51:19
+73            android:name="com.innotion.vpillreminders.AlarmService"
+73-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:49:36-91
+74            android:enabled="true" >
+74-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:49:12-35
+75            <action android:name="com.innotion.pillreminder.AlarmService" />
+75-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:50:10-74
+75-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:50:18-71
+76        </service>
+77         - 
+78        <activity
+78-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:53:12-54:102
+79            android:name="com.innotion.vpillreminders.PatientAlarmScreen"
+79-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:53:22-83
+80            android:label="@string/app_name"
+80-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:53:84-116
+81            android:screenOrientation="portrait"
+81-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:54:5-41
+82            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+82-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:54:42-100
+83
+84        <receiver android:name="com.innotion.vpillreminders.AlarmServiceManager" >
+84-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:56:9-61:14
+84-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:56:19-81
+85            <intent-filter>
+85-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:57:4-60:20
+86                <action android:name="android.intent.action.BOOT_COMPLETED" />
+86-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:58:4-59:59
+86-->C:\Users\nick2\Desktop\Pill_rem\app\src\main\AndroidManifest.xml:59:5-56
+87            </intent-filter>
+88        </receiver>
+89    </application>
+90
+91</manifest>

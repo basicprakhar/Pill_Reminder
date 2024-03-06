@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+     
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+  
+     		<com.mobclix.android.sdk.MobclixMMABannerXLAdView
+    	  	android:id="@+id/banner_adview1"
+           	android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"/>
+			
+			
+		<FrameLayout android:id="@+id/FrameLayout02" 
+	      android:layout_width="fill_parent" 
+	      android:layout_height="wrap_content">
+  	        
+	    <TextView
+        android:layout_width="wrap_content" 
+        android:id="@+id/patientName"
+        android:layout_height="wrap_content" 
+        android:layout_centerInParent="true"
+        android:padding="12dip"
+        android:background="#AA000000"
+        android:textColor="#ffffffff"
+        android:text="@string/Medicines" 
+        android:textSize="20px"
+        />      
+    </FrameLayout>
+
+  
+  <FrameLayout android:id="@+id/FrameLayout01" 
+      android:layout_width="fill_parent" 
+      android:layout_height="wrap_content">
+       
+ 
+        
+		<Button 
+	        android:id="@+id/AddMedicineMore"  
+	 		android:layout_width="fill_parent" 
+		    android:layout_height="fill_parent" 
+			android:layout_centerHorizontal="true"
+	        android:text="@string/AddMoreMedicine"
+	        android:onClick="onAddMedicine"
+	        android:layout_below="@+id/courseDuration"
+	        android:layout_alignParentBottom="true"
+	        />
+	        
+</FrameLayout>
+
+           
+      <TextView
+      android:layout_width="fill_parent" 
+      android:id="@+id/alarmData"
+      android:layout_height="wrap_content"
+      android:text=""
+	  android:padding="12dip"
+      android:background="#AA000000"
+      android:textSize="15px"/>
+		
+        <ImageView
+        android:layout_width="fill_parent" 
+        android:id="@+id/alarmImage"
+        android:layout_height="wrap_content"
+        />
+        
+        
+	   	<ListView xmlns:android="http://schemas.android.com/apk/res/android" 
+    	android:id="@+id/medicinelistview"
+    	android:layout_width="wrap_content" 
+    	android:layout_height="wrap_content"
+    	android:columnWidth="90dp"
+    	android:numColumns="auto_fit"
+    	android:verticalSpacing="10dp"
+    	android:horizontalSpacing="10dp"
+    	android:stretchMode="columnWidth"
+    	android:gravity="center"
+		/>
+	 
+ 
+</LinearLayout>
+  
+  

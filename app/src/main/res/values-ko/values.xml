@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    	<string name="app_name">필 알림  </string>
+	<string name="Pleasetakemedicineat">약을에서하시기 바랍니다  </string>
+	<string name="Take">보세요  </string>
+	<string name="Pills">알약  </string>
+	<string name="SelectPicture">이미지 선택  </string>
+	<string name="EnterMedicineName">의학 이름을 입력 (옵션)  </string>
+	<string name="Gallery">갤러리  </string>
+	<string name="Camera">카메라  </string>
+	<string name="Wesuggest1MP">우리는 예를 들어, 낮은 해상도 1 MP를 사진을 찍는 것이 좋습니다  </string>
+	<string name="MedicineTime">의학의 시간  </string>
+	<string name="OK">OK  </string>
+	<string name="Cancel">취소  </string>
+	<string name="Pleasetakemedicinepic">카메라 아이콘이있는 의약품의 사진을하시기 바랍니다  </string>
+	<string name="PillsSpoons">* 약 / 숫가락  </string>
+	<string name="PleaseSelectNoofPills">알약의 번호를 선택  </string>
+	<string name="PleaseSelectmedicineintaketimings">타이밍 클럭 아이콘을 사용하는 의약품의 복용을 선택  </string>
+	<string name="PotencyOpt">전원 (수신 거부)  </string>
+	<string name="InstructionsOpt">지침 (수신 거부)  </string>
+	<string name="PleaseSelectduration">일정 시간 아이콘을 사용하여 선택  </string>
+	<string name="PleaseSelectRecurrence">재발 선택  </string>
+	<string name="MedcineAdded">Medcine가 추가되었습니다 :  </string>
+	<string name="Medicinecouldnotbestored">의학은 저장되지 않습니다  </string>
+	<string name="Instructions">명령  </string>
+	<string name="Potency">권력  </string>
+	<string name="Recurrence">회귀  </string>
+	<string name="CourseDuration">코스 기간  </string>
+	<string name="NoOfPills">아니 알약  </string>
+	<string name="days">일  </string>
+	<string name="PatientName">PatientName  </string>
+	<string name="sMedicines">\' S 의약품  </string>
+	<string name="Medicines">의약품  </string>
+	<string name="For">에  </string>
+	<string name="Doyouwanttodeletethisalarm">이 경고를 삭제 하시겠습니까?  </string>
+	<string name="Everyday">매일  </string>
+	<string name="Alternatedays">대체 일  </string>
+	<string name="RemoveMedicine">약을 제거  </string>
+	<string name="Timings">시대  </string>
+	<string name="Enddate">종료일  </string>
+	<string name="Takeyourmedicine">이약을 먹어  </string>
+	<string name="Pleaseconfirmmedicinelist">지금 의학의 목록을 보려면하지 않으려면 확인하십시오?  </string>
+	<string name="Yes">예  </string>
+	<string name="No">아니  </string>
+	<string name="Pleasetaponscreenlistofmedicines">약품의 목록을 화면에 탭하십시오  </string>
+	<string name="Removeallstoredalarms">모든 저장된 경보를 제거하려면?  </string>
+	<string name="RemoveallPatients">모든 환자를 제거  </string>
+	<string name="AllthePatientsdatawillberemoved">모든 환자 데이터가 제거됩니다  </string>
+	<string name="DeleteAllPatientRecords">환자의 모든 기록을 삭제합니다  </string>
+	<string name="TreatmentforFeverAllergy">트리 트먼트 예를 들면 발열, 알레르기  </string>
+	<string name="Removethispatient">이 환자를 제거하려면?  </string>
+	<string name="RemovePatient">환자를 제거  </string>
+	<string name="StoredReminders">저장된 알림  </string>
+	<string name="PillReminder">필 알림  </string>
+	<string name="PatientPicTaken">환자 사진 촬영  </string>
+	<string name="PleasefirsttakePatientPic">첫 번째 그림 환자가 복용  </string>
+	<string name="Feedback">피드백  </string>
+	<string name="Help">도움  </string>
+	<string name="Settings">설정  </string>
+	<string name="AboutUs">회사 소개  </string>
+	<string name="Select">선택  </string>
+	<string name="EnterMedicineNameOptional">의학 이름을 입력 (옵션)  </string>
+	<string name="MedicineList">의학 목록  </string>
+	<string name="TreatmentName">TreatmentName  </string>
+	<string name="ShowMedicineToBeTakeNow">ShowMedicineToBeTakeNow  </string>
+	<string name="PatientNameOptional">환자의 이름 (옵션)  </string>
+	<string name="TakeMedicinePic">그림이 약을  </string>
+    <string name="SetPillsSchedule">세템버 알약 캘린더  </string>
+    <string name="AddMedicine">약을 추가  </string>
+    <string name="AddMoreMedicine">더 많은 약을 추가  </string>
+    <string name="AddPatientMedicines">환자 의약품 추가  </string>
+    <string name="PatientPic">환자 그림  </string>
+    <string name="Finish">완료  </string>
+    <string name="Ringtone">벨소리  </string>
+    <string name="AddPatient">환자를 추가  </string>
+    <string name="AllAlarmscreatedbyyouwillbelistedhere">사용자가 만든 모든 경보가 여기에 표시됩니다  </string>
+    <string name="AlarmSettings">알람 설정  </string>
+    <string name="DataSettings">데이터 설정  </string>
+    <string name="ReminderRingtone">알림 벨소리  </string>
+    <string name="SelectRingtone">반지를 선택하세요  </string>
+    <string name="Vibration">진동  </string>
+    <string name="TurnOnthevibration">진동 경보를 켭니다  </string>
+    <string name="Flashlight">플래시  </string>
+    <string name="TurnOntheflashlight">손전등 경보를 켭니다  </string>
+    <string name="NotificationSound">사운드 알림  </string>
+    <string name="Turnoffthenotification">알림 사운드 알람을 끄고  </string>
+    <string name="AutoAlarmSMSSettings">자동 SMS 알람 설정  </string>
+    <string name="AutoSendSMS">자동 보내기 SMS  </string>
+    <string name="SMSwillbesentautomatically">때 경보 SMS가 자동 발송됩니다. 사람이 집을이나 마을에 있으며, 약을 그의 / 그녀의 친척을 기억하고자 할 때이 사용할 수  </string>
+    <string name="SettheMobilenumber">문자 메시지 알림 약이 \' S가 발송됩니다와 전화 번호를 설정  </string>
+    <string name="EnterMobilenumber">휴대폰 번호를 입력하세요  </string>
+    <string name="eula_title">면책 조항</string>
+	<string name="eula_accept">수락</string>
+	<string name="eula_refuse">거절하다</string>
+    
+    
+      <string-array name="MedicinePotency">     
+    <item>전원 (수신 거부)  </item>
+    <item>0.25 (MG)  </item>
+    <item>0.5 (MG)  </item>
+    <item>1 (MG)  </item>
+    <item>2 (MG)  </item>
+    <item>4 (MG)  </item>
+    <item>5 (MG)  </item>
+    <item>8 (MG)  </item>
+    <item>10 (MG)  </item>
+    <item>12.5 (MG)  </item>
+    <item>20 (MG)  </item>
+    <item>25 (MG)  </item>
+    <item>40 (MG)  </item>
+    <item>50 (MG)  </item>
+    <item>75 (MG)  </item>
+    <item>100 (MG)  </item>
+    <item>120 (MG)  </item>
+    <item>150 (MG)  </item>
+	<item>200 (MG)  </item>
+	<item>250 (MG)  </item>
+	<item>300 (MG)  </item>
+	<item>400 (MG)  </item>
+	<item>500 (MG)  </item>
+	<item>600 (MG)  </item>
+	<item>650 (MG)  </item>
+	<item>1000 (MG)  </item>
+	<item>1200 (MG)  </item>
+	<item>1500 (MG)  </item>
+	<item>10,000 (단위)  </item>
+	<item>15,000 (단위)  </item>
+	<item>20,000 (단위)  </item>
+	<item>25,000 (단위)  </item>
+	
+	</string-array>
+     
+      <string-array name="NumberofPills">
+    <item>* 약 / 숫가락  </item>
+    <item>2분의 1  </item>
+    <item>1  </item>
+    <item>2  </item>
+    <item>3  </item>
+    <item>4  </item>
+    <item>5  </item>
+    <item>6  </item>
+    <item>7  </item>
+    <item>8  </item>
+    
+    </string-array>
+    
+    <string-array name="MedcineInstructions">
+    <item>지침 (수신 거부)  </item>
+    <item>공복  </item>
+    <item>식품 전에  </item>
+    <item>식품 후  </item>
+    <item>알콜을 피하십시오  </item>
+    <item>뜨거운 우유  </item>
+    
+     </string-array>
+   
+
+     <string-array name="Hours">
+        <item>06 AM </item>
+        <item>07 AM </item>
+        <item>08 AM </item>
+        <item>09 AM </item>
+        <item>10 AM </item>
+        <item>11 AM </item>
+        <item>00 PM </item>
+        <item>01 PM </item>
+        <item>02 PM </item>
+        <item>03 PM </item>
+        <item>04 PM </item>
+        <item>05 PM </item>
+        <item>06 PM </item>
+        <item>07 PM </item>
+        <item>08 PM </item>
+        <item>09 PM </item>
+        <item>10 PM </item>
+        <item>11 PM </item>
+		<item>00 AM </item>
+		<item>01 AM </item>
+		<item>02 AM </item>
+		<item>03 AM </item>
+		<item>04 AM </item>
+		<item>05 AM </item>  
+	
+	 	
+   	</string-array>
+   	
+      <string-array name="Minutes">
+    <item>민  </item>
+    <item>00  </item>
+    <item>15  </item>
+    <item>30  </item>
+    <item>45  </item> 
+    
+      	</string-array>
+   
+    <string-array name="CourseDuration">
+    <item>물론 * 기간  </item>
+    <item>일일  </item>
+    <item>이일  </item>
+    <item>삼일  </item>
+    <item>오일  </item>
+    <item>일주  </item>
+    <item>십오일  </item>
+    <item>일개월  </item>
+    <item>이개월  </item>
+    <item>3 개월  </item>
+    <item>4 개월  </item>
+    <item>6 개월  </item>
+    <item>일년  </item>
+    <item>긴 수명  </item>
+    
+      	</string-array>
+   	
+   	    <string-array name="Frequency">
+    <item>* 반복  </item>
+    <item>하루 종일  </item>
+    <item>대체 일  </item>
+    <item>매 3 일마다  </item>
+    <item>매주 일요일  </item>
+    <item>모든 월  </item>
+    <item>모든 화  </item>
+    <item>모든 브랜드  </item>
+    <item>모든 목  </item>
+    <item>모든 금  </item>
+    <item>매주 토요일 </item>
+    </string-array>
+</resources>

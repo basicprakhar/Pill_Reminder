@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    	<string name="app_name">Recordatorio de la píldora </string>
+	<string name="Pleasetakemedicineat">Por favor, tome la medicina en </string>
+	<string name="Take">Tomar </string>
+	<string name="Pills">Pastillas </string>
+	<string name="SelectPicture">Seleccione Imagen </string>
+	<string name="EnterMedicineName">Introduzca el nombre de Medicina (Opcional) </string>
+	<string name="Gallery">Galería </string>
+	<string name="Camera">Cámara </string>
+	<string name="Wesuggest1MP">Le sugerimos tomar las fotos en baja resolución, por ejemplo un MP </string>
+	<string name="MedicineTime">Medicina Tiempo </string>
+	<string name="OK">Aceptar </string>
+	<string name="Cancel">Cancelar </string>
+	<string name="Pleasetakemedicinepic">Por favor, tome la medicina con la foto icono de la cámara </string>
+	<string name="PillsSpoons">* Pastillas / Cucharas </string>
+	<string name="PleaseSelectNoofPills">Seleccione No de las píldoras </string>
+	<string name="PleaseSelectmedicineintaketimings">Seleccione los tiempos de la medicina el consumo mediante el icono del reloj </string>
+	<string name="PotencyOpt">Potencia (Opt) </string>
+	<string name="InstructionsOpt">Instrucciones (Opt) </string>
+	<string name="PleaseSelectduration">Seleccione la duración utilizando el Calendario icono </string>
+	<string name="PleaseSelectRecurrence">Seleccione Recurrencia </string>
+	<string name="MedcineAdded">Medcine Alta: </string>
+	<string name="Medicinecouldnotbestored">La medicina no puede ser almacenado </string>
+	<string name="Instructions">Instrucciones </string>
+	<string name="Potency">Potencia </string>
+	<string name="Recurrence">Reaparición </string>
+	<string name="CourseDuration">Duración del curso </string>
+	<string name="NoOfPills">No de las píldoras </string>
+	<string name="days">días </string>
+	<string name="PatientName">PatientName </string>
+	<string name="sMedicines">\'S Medicamentos </string>
+	<string name="Medicines">Medicamentos </string>
+	<string name="For">para </string>
+	<string name="Doyouwanttodeletethisalarm">¿Desea eliminar esta alarma? </string>
+	<string name="Everyday">Diario </string>
+	<string name="Alternatedays">Días alternos </string>
+	<string name="RemoveMedicine">Quitar Medicina </string>
+	<string name="Timings">Los tiempos </string>
+	<string name="Enddate">Fecha de finalización </string>
+	<string name="Takeyourmedicine">Tome su medicina </string>
+	<string name="Pleaseconfirmmedicinelist">Por favor, confirme si no quieres ver la lista de la medicina ahora? </string>
+	<string name="Yes">Sí </string>
+	<string name="No">No </string>
+	<string name="Pleasetaponscreenlistofmedicines">Por favor, toque en pantalla para obtener la lista de medicamentos </string>
+	<string name="Removeallstoredalarms">¿Quieres eliminar todas las alarmas almacenadas? </string>
+	<string name="RemoveallPatients">Eliminar todos los pacientes </string>
+	<string name="AllthePatientsdatawillberemoved">Todos los datos de los pacientes serán eliminados </string>
+	<string name="DeleteAllPatientRecords">Eliminar todos los registros del paciente </string>
+	<string name="TreatmentforFeverAllergy">Por ejemplo, el tratamiento de Fiebre, alergia </string>
+	<string name="Removethispatient">¿Quieres eliminar este paciente? </string>
+	<string name="RemovePatient">Apartar al paciente </string>
+	<string name="StoredReminders">Recordatorios almacenados </string>
+	<string name="PillReminder">Recordatorio de la píldora </string>
+	<string name="PatientPicTaken">Tomado paciente Pico </string>
+	<string name="PleasefirsttakePatientPic">Por favor, saca primero Pico del Paciente </string>
+	<string name="Feedback">Realimentación </string>
+	<string name="Help">Ayuda </string>
+	<string name="Settings">Configuración </string>
+	<string name="AboutUs">Acerca de Nosotros </string>
+	<string name="Select">Seleccionar </string>
+	<string name="EnterMedicineNameOptional">Introduzca el nombre de Medicina (Opcional) </string>
+	<string name="MedicineList">Lista de medicamentos </string>
+	<string name="TreatmentName">TreatmentName </string>
+	<string name="ShowMedicineToBeTakeNow">ShowMedicineToBeTakeNow </string>
+	<string name="PatientNameOptional">Nombre del paciente (opcional) </string>
+	<string name="TakeMedicinePic">Tomar la medicina de Pico </string>
+    <string name="SetPillsSchedule">Píldoras de establecer la programación </string>
+    <string name="AddMedicine">Añadir Medicina </string>
+    <string name="AddMoreMedicine">Añadir más cantidad de medicamento </string>
+    <string name="AddPatientMedicines">Agregar los medicamentos del paciente </string>
+    <string name="PatientPic">Paciente Pico </string>
+    <string name="Finish">Terminar </string>
+    <string name="Ringtone">Tono </string>
+    <string name="AddPatient">Añadir Paciente </string>
+    <string name="AllAlarmscreatedbyyouwillbelistedhere">Todas las alarmas creadas por usted serán listados aquí </string>
+    <string name="AlarmSettings">Configuración de alarma </string>
+    <string name="DataSettings">Configuración de los datos </string>
+    <string name="ReminderRingtone">Recordatorio de tono </string>
+    <string name="SelectRingtone">Seleccionar tono </string>
+    <string name="Vibration">Vibración </string>
+    <string name="TurnOnthevibration">Activar la vibración de la alarma </string>
+    <string name="Flashlight">Flash </string>
+    <string name="TurnOntheflashlight">Encender la linterna de la alarma </string>
+    <string name="NotificationSound">Notificación de sonido </string>
+    <string name="Turnoffthenotification">Apague el sonido de notificación de la alarma </string>
+    <string name="AutoAlarmSMSSettings">Auto Alarma de Configuración de SMS </string>
+    <string name="AutoSendSMS">Envío automático de SMS </string>
+    <string name="SMSwillbesentautomatically">SMS se enviarán de forma automática durante alarma. Esto puede ser usado cuando la persona está fuera de casa o ciudad, y quiere recordar a su / su pariente para tomar medicamentos </string>
+    <string name="SettheMobilenumber">Establecer el número de móvil en el que la medicina recordatorio sms \'s se enviarán </string>
+    <string name="EnterMobilenumber">Introduzca un número de móvil tring> </string>
+    <string name="eula_title">renuncia</string>
+	<string name="eula_accept">aceptar</string>
+	<string name="eula_refuse">rechazar</string>
+    
+    
+     <string-array name="MedicinePotency">   
+    <item>Potencia (Opt) </item>
+    <item>0.25 (mg) </item>
+    <item>0,5 (mg) </item>
+    <item>1 (mg) </item>
+    <item>2 (mg) </item>
+    <item>4 (mg) </item>
+    <item>5 (mg) </item>
+    <item>8 (mg) </item>
+    <item>10 (mg) </item>
+    <item>12,5 (mg) </item>
+    <item>20 (mg) </item>
+    <item>25 (mg) </item>
+    <item>40 (mg) </item>
+    <item>50 (mg) </item>
+    <item>75 (mg) </item>
+    <item>100 (mg) </item>
+    <item>120 (mg) </item>
+    <item>150 (mg) </item>
+	<item>200 (mg) </item>
+	<item>250 (mg) </item>
+	<item>300 (mg) </item>
+	<item>400 (mg) </item>
+	<item>500 (mg) </item>
+	<item>600 (mg) </item>
+	<item>650 (mg) </item>
+	<item>1000 (mg) </item>
+	<item>1200 (mg) </item>
+	<item>1500 (mg) </item>
+	<item>10000 (Unidad) </item>
+	<item>15000 (Unidad) </item>
+	<item>20000 (Unidad) </item>
+	<item>25000 (Unidad) </item>
+	
+	</string-array>
+     
+      <string-array name="NumberofPills">
+    <item>* Pastillas / Cucharas </item>
+    <item>1.2 </item>
+    <item>1 </item>
+    <item>2 </item>
+    <item>3 </item>
+    <item>4 </item>
+    <item>5 </item>
+    <item>6 </item>
+    <item>7 </item>
+    <item>8 </item>
+    
+    </string-array>
+    
+    <string-array name="MedcineInstructions">
+    <item>Instrucciones (Opt) </item>
+    <item>Estómago Vacío </item>
+    <item>Antes de la Alimentación </item>
+    <item>Después de la Alimentación </item>
+    <item>Evite el alcohol </item>
+    <item>Con leche caliente </item>
+    
+      </string-array>
+   
+
+    <string-array name="Hours">
+        <item>06 AM </item>
+        <item>07 AM </item>
+        <item>08 AM </item>
+        <item>09 AM </item>
+        <item>10 AM </item>
+        <item>11 AM </item>
+        <item>00 PM </item>
+        <item>01 PM </item>
+        <item>02 PM </item>
+        <item>03 PM </item>
+        <item>04 PM </item>
+        <item>05 PM </item>
+        <item>06 PM </item>
+        <item>07 PM </item>
+        <item>08 PM </item>
+        <item>09 PM </item>
+        <item>10 PM </item>
+        <item>11 PM </item>
+		<item>00 AM </item>
+		<item>01 AM </item>
+		<item>02 AM </item>
+		<item>03 AM </item>
+		<item>04 AM </item>
+		<item>05 AM </item>
+	
+	</string-array> 
+   	
+      <string-array name="Minutes"> 
+    <item>Minutos </item>
+    <item>00 </item>
+    <item>15 </item>
+    <item>30 </item>
+    <item>45 </item>   
+    
+     	</string-array>
+   
+    <string-array name="CourseDuration"> 
+    <item>* Duración del curso </item>
+    <item>1 día </item>
+    <item>2 días </item>
+    <item>3 días </item>
+    <item>5 días </item>
+    <item>1 semana </item>
+    <item>15 días </item>
+    <item>1 mes </item>
+    <item>2 Meses </item>
+    <item>3 Meses </item>
+    <item>4 Meses </item>
+    <item>6 Meses </item>
+    <item>1 año </item>
+    <item>Larga vida </item>   
+    
+    </string-array>
+   	
+   	    <string-array name="Frequency">
+    <item>* La recurrencia </item>
+    <item>Todos los días </item>
+    <item>Días alternos </item>
+    <item>Cada 3 días </item>
+    <item>Cada sol </item>
+    <item>Cada lunes </item>
+    <item>Cada mar </item>
+    <item>Cada Mar </item>
+    <item>Todos los jue </item>
+    <item>Cada vie </item>
+    <item>Cada sáb </item>
+    </string-array>
+</resources>

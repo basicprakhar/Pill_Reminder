@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    	<string name="app_name">丸提醒  </string>
+	<string name="Pleasetakemedicineat">请在吃药  </string>
+	<string name="Take">走  </string>
+	<string name="Pills">丸  </string>
+	<string name="SelectPicture">选择图片  </string>
+	<string name="EnterMedicineName">输入药名（可选）  </string>
+	<string name="Gallery">画廊  </string>
+	<string name="Camera">摄像机  </string>
+	<string name="Wesuggest1MP">我们建议采取在低分辨率的照片为例，100万像素  </string>
+	<string name="MedicineTime">时间药  </string>
+	<string name="OK">OK  </string>
+	<string name="Cancel">取消  </string>
+	<string name="Pleasetakemedicinepic">请大家用相机图标医药图片  </string>
+	<string name="PillsSpoons">*丸/匙  </string>
+	<string name="PleaseSelectNoofPills">选择丸号  </string>
+	<string name="PleaseSelectmedicineintaketimings">选择使用的计时时钟图标服用药物  </string>
+	<string name="PotencyOpt">功率（选件）  </string>
+	<string name="InstructionsOpt">说明（OPT）  </string>
+	<string name="PleaseSelectduration">选择使用日历时间图标  </string>
+	<string name="PleaseSelectRecurrence">选择复发  </string>
+	<string name="MedcineAdded">Medcine补充：  </string>
+	<string name="Medicinecouldnotbestored">医学不能存储  </string>
+	<string name="Instructions">说明  </string>
+	<string name="Potency">电源  </string>
+	<string name="Recurrence">复发  </string>
+	<string name="CourseDuration">课程持续时间  </string>
+	<string name="NoOfPills">不丸  </string>
+	<string name="days">一天  </string>
+	<string name="PatientName">PatientName  </string>
+	<string name="sMedicines">\'\ S药品  </string>
+	<string name="Medicines">药品  </string>
+	<string name="For">对  </string>
+	<string name="Doyouwanttodeletethisalarm">你想删除此提醒？  </string>
+	<string name="Everyday">日报  </string>
+	<string name="Alternatedays">隔日  </string>
+	<string name="RemoveMedicine">医学删除  </string>
+	<string name="Timings">时报  </string>
+	<string name="Enddate">结束日期  </string>
+	<string name="Takeyourmedicine">以你的药  </string>
+	<string name="Pleaseconfirmmedicinelist">请证实，如果你不希望看到的药品名单吗？  </string>
+	<string name="Yes">是的  </string>
+	<string name="No">无  </string>
+	<string name="Pleasetaponscreenlistofmedicines">请点击屏幕来获取药物清单  </string>
+	<string name="Removeallstoredalarms">要删除所有存储的报警？  </string>
+	<string name="RemoveallPatients">删除所有患者  </string>
+	<string name="AllthePatientsdatawillberemoved">所有病人的数据将被删除  </string>
+	<string name="DeleteAllPatientRecords">删除所有记录的病人  </string>
+	<string name="TreatmentforFeverAllergy">例如治疗发热，过敏  </string>
+	<string name="Removethispatient">要删除此病人？  </string>
+	<string name="RemovePatient">把患者  </string>
+	<string name="StoredReminders">提醒存储  </string>
+	<string name="PillReminder">丸提醒  </string>
+	<string name="PatientPicTaken">患者拍摄的照片  </string>
+	<string name="PleasefirsttakePatientPic">首图病人服用  </string>
+	<string name="Feedback">反馈  </string>
+	<string name="Help">帮助  </string>
+	<string name="Settings">设置  </string>
+	<string name="AboutUs">关于我们  </string>
+	<string name="Select">选择  </string>
+	<string name="EnterMedicineNameOptional">输入药名（可选）  </string>
+	<string name="MedicineList">药物目录  </string>
+	<string name="TreatmentName">TreatmentName  </string>
+	<string name="ShowMedicineToBeTakeNow">ShowMedicineToBeTakeNow  </string>
+	<string name="PatientNameOptional">病人姓名（可选）  </string>
+	<string name="TakeMedicinePic">图片吃药  </string>
+    <string name="SetPillsSchedule">九月丸日历  </string>
+    <string name="AddMedicine">加药  </string>
+    <string name="AddMoreMedicine">添加更多的药品  </string>
+    <string name="AddPatientMedicines">添加药物的病人  </string>
+    <string name="PatientPic">病人图  </string>
+    <string name="Finish">完成  </string>
+    <string name="Ringtone">铃声  </string>
+    <string name="AddPatient">新增病人  </string>
+    <string name="AllAlarmscreatedbyyouwillbelistedhere">所有的报警，你将在这里列出创建  </string>
+    <string name="AlarmSettings">报警设置  </string>
+    <string name="DataSettings">数据设置  </string>
+    <string name="ReminderRingtone">提醒铃声  </string>
+    <string name="SelectRingtone">选择环  </string>
+    <string name="Vibration">振动  </string>
+    <string name="TurnOnthevibration">打开振动报警  </string>
+    <string name="Flashlight">手电筒  </string>
+    <string name="TurnOntheflashlight">打开手电筒报警  </string>
+    <string name="NotificationSound">声音通知  </string>
+    <string name="Turnoffthenotification">关闭声音报警通知  </string>
+    <string name="AutoAlarmSMSSettings">自动短信报警设置  </string>
+    <string name="AutoSendSMS">自动发送短信  </string>
+    <string name="SMSwillbesentautomatically">将发送短信时自动报警。这可以用来当人远离家乡或在城镇和要记住他/她的亲戚吃药  </string>
+    <string name="SettheMobilenumber">设置短信提醒医药\'\ s将被发送的手机号码  </string>
+    <string name="EnterMobilenumber">输入手机号码  </string>
+    <string name="eula_title">免责声明</string>
+	<string name="eula_accept">接受</string>
+	<string name="eula_refuse">拒绝</string>
+    
+    
+    
+      <string-array name="MedicinePotency">      
+    <item>功率（选件）  </item>
+    <item>0.25（毫克）  </item>
+    <item>0.5（毫克）  </item>
+    <item>1（毫克）  </item>
+    <item>2（毫克）  </item>
+    <item>4（毫克）  </item>
+    <item>5（毫克）  </item>
+    <item>8（毫克）  </item>
+    <item>10（毫克）  </item>
+    <item>12.5（毫克）  </item>
+    <item>20（毫克）  </item>
+    <item>25（毫克）  </item>
+    <item>40（毫克）  </item>
+    <item>50（毫克）  </item>
+    <item>75（毫克）  </item>
+    <item>100（毫克）  </item>
+    <item>120（毫克）  </item>
+    <item>150（毫克）  </item>
+	<item>200（毫克）  </item>
+	<item>250（毫克）  </item>
+	<item>300（毫克）  </item>
+	<item>400（毫克）  </item>
+	<item>500（毫克）  </item>
+	<item>600（毫克）  </item>
+	<item>650（毫克）  </item>
+	<item>1000（毫克）  </item>
+	<item>1200（毫克）  </item>
+	<item>1500（毫克）  </item>
+	<item>10000（单位）  </item>
+	<item>15000（单位）  </item>
+	<item>20000（单位）  </item>
+	<item>25000（单位）  </item>
+	
+	</string-array>
+     
+      <string-array name="NumberofPills">
+    <item>*丸/匙  </item>
+    <item>1 / 2  </item>
+    <item>1  </item>
+    <item>2  </item>
+    <item>3  </item>
+    <item>4  </item>
+    <item>5  </item>
+    <item>6  </item>
+    <item>7  </item>
+    <item>8  </item>
+    
+     </string-array>
+    
+    <string-array name="MedcineInstructions">
+    <item>说明（OPT）  </item>
+    <item>空腹  </item>
+    <item>在食品  </item>
+    <item>经过食品  </item>
+    <item>避免饮酒  </item>
+    <item>随着热牛奶  </item>
+    
+     </string-array>
+   
+
+       <string-array name="Hours">
+        <item>06 AM </item>
+        <item>07 AM </item>
+        <item>08 AM </item>
+        <item>09 AM </item>
+        <item>10 AM </item>
+        <item>11 AM </item>
+        <item>00 PM </item>
+        <item>01 PM </item>
+        <item>02 PM </item>
+        <item>03 PM </item>
+        <item>04 PM </item>
+        <item>05 PM </item>
+        <item>06 PM </item>
+        <item>07 PM </item>
+        <item>08 PM </item>
+        <item>09 PM </item>
+        <item>10 PM </item>
+        <item>11 PM </item>
+		<item>00 AM </item>
+		<item>01 AM </item>
+		<item>02 AM </item>
+		<item>03 AM </item>
+		<item>04 AM </item>
+		<item>05 AM </item>
+	
+	 	</string-array>
+   	
+      <string-array name="Minutes">  
+    <item>闵  </item>
+    <item>00  </item>
+    <item>15  </item>
+    <item>30  </item>
+    <item>45  </item>    
+    
+    	</string-array>
+   
+    <string-array name="CourseDuration">
+    <item>*持续的过程  </item>
+    <item>1天  </item>
+    <item>2天  </item>
+    <item>3天  </item>
+    <item>5天  </item>
+    <item>1周  </item>
+    <item>15天  </item>
+    <item>1个月  </item>
+    <item>2个月  </item>
+    <item>3个月  </item>
+    <item>4个月  </item>
+    <item>6个月  </item>
+    <item>1年  </item>
+    <item>长寿命  </item>    
+    
+     	</string-array>
+   	
+   	    <string-array name="Frequency">  
+    <item>*复发  </item>
+    <item>全天  </item>
+    <item>隔日  </item>
+    <item>每3天  </item>
+    <item>每周日  </item>
+    <item>逢星期一  </item>
+    <item>每星期二  </item>
+    <item>逢星期四  </item>
+    <item>逢星期四  </item>
+    <item>逢星期五  </item>
+    <item>逢星期六 </item>
+    </string-array>
+</resources>

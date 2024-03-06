@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+    
+ 
+    <TabHost android:id="@+id/tabHost1" 
+    	android:layout_width="fill_parent" 
+    	android:layout_height="fill_parent" 
+    	xmlns:android="http://schemas.android.com/apk/res/android"
+    	>
+    	
+    		
+ 
+   <LinearLayout
+   
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background = "#FFFFFF"
+		>
+
+	    <TabWidget
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:id="@android:id/tabs"
+	    />
+    
+	  <FrameLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:id="@android:id/tabcontent">
+    
+      <ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+   > 
+   
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		
+    	android:orientation="vertical"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:id = "@+id/MainScreenLayout"
+    	android:layout_weight="1"
+    	android:background = "#FFFFFF"
+    	>
+       	
+      	   <com.mobclix.android.sdk.MobclixMMABannerXLAdView
+    	  	android:id="@+id/banner_adview1"
+           	android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"/>
+      	
+                
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:id = "@+id/AddMedicineLayout"
+    	android:orientation="vertical"
+    	android:layout_weight="1"
+    	android:focusable="true"
+    	android:focusableInTouchMode="true"
+    	>
+               
+      		<ImageView
+        android:layout_width="fill_parent" 
+        android:id="@+id/patientImage"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        android:src = "@drawable/unknownperson"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+         />
+         
+          <EditText 
+        android:id="@+id/PatientNameEditText"  
+        android:layout_width="fill_parent" 
+        android:layout_height="fill_parent"
+        android:text="@string/PatientNameOptional"
+        android:textColor="#808080"
+        android:textSize="20px"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        />
+        
+         <EditText 
+        android:id="@+id/TreatmentNameEditText"  
+        android:layout_width="fill_parent" 
+        android:layout_height="fill_parent"
+        android:text="@string/TreatmentforFeverAllergy"
+        android:textColor="#808080"
+        android:textSize="20px"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        />
+      
+        </LinearLayout> 
+	
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:layout_width="wrap_content"
+    	android:layout_height="fill_parent"
+    	android:id = "@+id/AddMedicineLayout"
+    	android:orientation="horizontal"
+    	android:layout_weight="3"
+    	>
+    	
+	<ImageButton android:id="@+id/PatientPic" 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content" 
+		android:onClick="onPatientPicClick" 
+		android:src="@xml/cameraicon" 
+        android:layout_weight="1"
+        android:background="@null" 
+		android:layout_above="@+id/PatientPic" /> 
+   
+    <ImageButton 
+        android:id="@+id/AudioButton"  
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content"
+       android:layout_weight="1"
+        android:onClick="OnAudioSelectionClick"
+        android:src="@xml/audioicon"
+        android:background="@null"
+        />
+        
+                
+    <ImageButton 
+        android:id="@+id/AddMedicineButton"  
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content"
+        android:text="@string/AddPatientMedicines"
+        android:onClick="onAddMedicineButtonClick"
+        android:layout_weight="1"
+        android:textColor = "#FF0000"
+        android:src="@xml/addpatient"
+        android:background="@null"
+    
+        />
+         	    
+       </LinearLayout>
+       
+
+	
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:orientation="horizontal"
+    	android:layout_weight="1" >
+	
+	<TextView 
+  		android:id="@+id/CameraText" 
+  		android:layout_height="wrap_content" 
+  		android:layout_width="fill_parent" 
+  		android:textSize="15sp"
+  		android:text="@string/PatientPic"
+  		android:layout_weight="1"
+  		android:textColor="#000000"
+  	
+  		/> 
+	
+	<TextView 
+  		android:id="@+id/AudioText" 
+  		android:layout_height="wrap_content" 
+  		android:layout_width="fill_parent" 
+  		android:textSize="15sp"
+  		android:text="@string/Ringtone"
+  		android:layout_weight="1"
+  		android:textColor="#000000"
+  	
+  		/> 
+  		
+ 	<TextView 
+  		android:id="@+id/AddText" 
+  		android:layout_height="wrap_content" 
+  		android:layout_width="fill_parent" 
+		android:textSize="15sp"
+  		android:text="@string/AddPatient"
+  		android:layout_weight="1"
+  		android:textColor="#000000"
+   		/> 
+
+
+
+  		</LinearLayout>
+  		
+  	
+        
+       </LinearLayout>
+
+    </ScrollView>
+
+
+     
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:orientation="vertical"
+    	android:layout_width="fill_parent"
+    	android:layout_height="fill_parent"
+    	android:id = "@+id/Patient"
+    	>
+    	
+    	  	<com.mobclix.android.sdk.MobclixMMABannerXLAdView
+    	  	android:id="@+id/banner_adview1"
+           	android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"/>
+    	
+    	<RelativeLayout
+		android:id="@+id/ManageRelativeLayout"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		xmlns:android="http://schemas.android.com/apk/res/android"
+		android:background="@drawable/pillback1"
+		>
+    	  
+	    <ImageView
+        android:layout_width="wrap_content" 
+        android:id="@+id/alarmImage"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        android:layout_alignParentLeft="true"
+         />
+        
+         <TextView
+        android:layout_width="20px"
+        android:id="@+id/alarmData"
+        android:layout_height="20px"
+        android:text="@string/AllAlarmscreatedbyyouwillbelistedhere"
+        android:padding="40px"
+        android:layout_alignParentRight="true"
+        android:layout_alignLeft="@+id/alarmImage"
+        android:layout_alignBottom = "@+id/alarmImage"/>
+      
+    	<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+		android:id="@+id/gridview" android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:columnWidth="90dp"
+		android:numColumns="auto_fit" android:verticalSpacing="10dp"
+		android:horizontalSpacing="10dp" android:stretchMode="columnWidth"
+		android:gravity="center">
+	
+        </ListView>
+        </RelativeLayout>
+		
+    </LinearLayout>
+    </FrameLayout>
+   
+    </LinearLayout>
+
+    </TabHost>
+
+
